@@ -68,9 +68,6 @@ WinSafe/
 
 Este programa ejecuta herramientas nativas de Windows (DISM, SFC, defrag, cleanmgr) que pueden tardar varios minutos, especialmente `DISM /RestoreHealth` y `sfc /scannow`. No apagues el equipo mientras estén en ejecución. El registro completo de cada sesión queda guardado en `C:\MaintenanceLogs` para poder revisar qué se hizo.
 
-## 📄 Licencia
-
-Este proyecto está licenciado bajo la **GNU General Public License v3.0**. Podés usar, modificar y redistribuir el código, siempre que cualquier trabajo derivado se distribuya bajo la misma licencia. Ver el archivo [LICENSE](LICENSE) para el texto completo.
 
 ## 👤 Autor
 
